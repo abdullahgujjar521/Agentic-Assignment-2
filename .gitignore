@@ -1,0 +1,31 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local SQLite / generated DBs
+*.db
+*.sqlite3
+demo.db
+fail.db
+live.db
+
+# Generated outputs / run artifacts
+outputs/
+results/
+eval/work/
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

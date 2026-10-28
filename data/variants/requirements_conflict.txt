@@ -1,0 +1,41 @@
+# FICTIONAL renewal requirements used for coursework. Not official guidance; offices, fees and times are invented.
+# Format: "## <doc_type>" starts a section. "lead_days:" is the processing lead time. "STEP n:" lines form the checklist.
+
+## passport
+lead_days: 60
+STEP 1: Book a passport-office appointment slot on the (fictional) online portal.
+STEP 2: Pay the renewal fee at a designated bank branch and keep the stamped challan.
+STEP 3: Gather the old passport, a CNIC copy, two photographs and the fee challan.
+STEP 4: Attend the biometrics appointment and submit the application.
+STEP 5: Track the application and collect the new passport.
+NOTE: Normal processing takes up to six weeks; urgent processing costs more.
+IF EXPIRED: Apply for a fresh issue and attach a short statement explaining the delay.
+
+## cnic
+lead_days: 30
+STEP 1: Book an appointment at a registration centre.
+STEP 2: Fill in the renewal form and collect the fee challan.
+STEP 3: Bring the old CNIC and a recent photograph to the centre.
+STEP 4: Give fingerprints and submit the form.
+STEP 5: Track the application with the tracking number and collect the new card.
+NOTE: Processing normally takes two to three weeks.
+
+## driving_licence
+lead_days: 21
+STEP 1: Get a medical fitness certificate from a registered doctor.
+STEP 2: Pay the licence renewal fee at the bank and keep the challan.
+STEP 3: Submit the old licence, a CNIC copy, the medical certificate and the challan at the licensing office.
+STEP 4: Collect the renewed licence.
+NOTE: Driving with an expired licence can be fined.
+
+## student_card
+STEP 1: Fill in the card revalidation form at the registrar's office.
+STEP 2: Submit the form with the current fee voucher and the old card.
+STEP 3: Collect the revalidated card.
+NOTE: Processing time depends on the registrar and is not stated here.
+
+## driving_licence
+lead_days: 45
+STEP 1: Book an appointment at the licensing office.
+STEP 2: Submit the renewal pack.
+NOTE: Revised notice published later: processing now takes about six weeks.
